@@ -1,6 +1,6 @@
-# Stroke Detection based on FER
+# Stroke Detection
 
-This is a class project which attempts to extend the FER dataset and classify medicial emergencies such as strokes. Detects facial emotions however fails to detect strokes.
+A class project which aimed to detect strokes by identifying facial palsy. Unfortunately failed due to lack of a well established dataset but using the FER dataset (Kaggle) achieved detection of human emotions. 
 
 # Video example here.
 
